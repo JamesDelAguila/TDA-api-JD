@@ -7,7 +7,7 @@ with open(file="README.md", mode="r") as fh:
 
 setup(
     # this will be my Library name.
-    name='td-ameritrade-python-api',
+    name='TDA-api-JD',
 
     # Want to make sure people know who made it.
     author='Alex Reed',
@@ -31,7 +31,7 @@ setup(
     long_description_content_type="text/markdown",
 
     # here is the URL you can find the code, this is just the GitHub URL.
-    url='https://github.com/areed1192/td-ameritrade-python-api',
+    url='https://github.com/areed1192/TDA-api-JD',
 
     # there are some dependencies to use the library, so let's list them out.
     install_requires=[
